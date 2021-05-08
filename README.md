@@ -1,2 +1,2 @@
 # cubathon
-A simple cube game written on Unity. 
+A simple cube game written on unity. 
